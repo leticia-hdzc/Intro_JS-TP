@@ -34,12 +34,12 @@ npm --version
 ### Pasos de instalación
 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu-usuario/Leticia_Hernandez-Intro_JS-TP.git
+git clone https://github.com/leticia-hdzc/Intro_JS-TP
 ```
 
 2. Navega al directorio del proyecto
 ```bash
-cd Leticia_Hernandez-Intro_JS-TP
+cd Intro_JS-TP
 ```
 
 3. Instala las dependencias
@@ -123,4 +123,4 @@ El sistema incluye datos de ejemplo:
 
 
 
-Link del Proyecto: [https://github.com/tu-usuario/Leticia_Hernandez-Intro_JS-TP.git]
+Link del Proyecto: [https://github.com/leticia-hdzc/Intro_JS-TP]
